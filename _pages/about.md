@@ -46,4 +46,4 @@ We mostly work with academics on language-related topics:
 
 [lean]: https://lean-lang.org
 [rust]: https://www.rust-lang.org
-[legal]: mentions
+[legal]: /mentions
