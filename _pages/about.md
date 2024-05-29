@@ -2,24 +2,48 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: # <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: # hori_logo_anzen_cob_big.png
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  more_info:
+    # <p>555 your office number</p>
+    # <p>123 your address street</p>
+    # <p>Your City, State 12345</p>
 
 news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+<div class="row">
+    <div class="col-sm-3 mt-0 mt-md-0"></div>
+    <div class="col-sm-5 mt-0 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/hori_logo_anzen_cob_big.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-4 mt-0 mt-md-0"></div>
+</div>
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Anzenlang (安全言語) is specialized in software safety through language safety: strong-typing,
+formal verification, high language expressiveness... That's why we love [Lean 4][lean] and
+[Rust][rust].
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+<br>
+
+We mostly work with academics on language-related topics:
+
+- DSL conception, compilation and verification, especially for (critical) embedded systems;
+
+- theorem proving in Lean 4, for software safety and fundamental results;
+
+- Lean 4, Rust, and formal verification training.
+
+<br>
+
+[Mentions légales.][legal]
+
+[lean]: https://lean-lang.org
+[rust]: https://www.rust-lang.org
+[legal]: mentions
