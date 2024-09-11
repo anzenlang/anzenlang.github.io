@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Lean 4 training
 permalink: /training/
-subtitle: # <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+title: training
+nav: true
+nav_order: 2
 ---
 
 

@@ -2,6 +2,8 @@ github_users:
   - AdrienChampion
 
 github_repos:
+  - anzenlang/cvc.lean
+  - anzenlang/lean-cvc5
   - anzenlang/lean-smt
   - anzenlang/timelib
   - AdrienChampion/rsmt2
