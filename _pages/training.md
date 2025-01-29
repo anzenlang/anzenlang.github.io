@@ -8,7 +8,7 @@ nav_order: 2
 
 
 
-> The whole training material is open source, check it out at <github.com/anzenlang/train.bf>.
+> The whole training material is open source, check it out at [`github.com/anzenlang/train.bf`].
 
 # Lean 4?
 
@@ -70,7 +70,7 @@ appear in a *"normal"* software development setting.
 
 ## Details
 
-> The whole training material is open source, check it out at <github.com/anzenlang/train.bf>.
+> The whole training material is open source, check it out at [`github.com/anzenlang/train.bf`].
 
 The training program is structured around a project so that the various topics are discussed in a
 tangible context, as opposed to relying on small standalone code snippets.
@@ -122,3 +122,4 @@ day depending on how fast participants assimilate the rest of the program.
 [cic]: https://coq.inria.fr/doc/v8.9/refman/language/cic.html
 [coq]: https://coq.inria.fr
 [beans]: https://arxiv.org/pdf/1908.05647
+[`github.com/anzenlang/train.bf`]: https://github.com/anzenlang/train.bf
