@@ -8,6 +8,8 @@ nav_order: 2
 
 
 
+> The whole training material is open source, check it out at <github.com/anzenlang/train.bf>.
+
 # Lean 4?
 
 [Lean 4][lean] is a relatively new language that has been growing rapidly during the last two years.
@@ -56,9 +58,9 @@ programs can optimize them much, much more aggressively without sacrificing safe
 
 # Training Program
 
-We propose a 3-day training program that presents Lean from basics to relatively advanced concepts.
-The program does **not** turn participants into Lean experts, instead it gives a solid foundation
-to approach existing code and start writing original projects.
+We propose a four-day training program that presents Lean from basics to relatively advanced
+concepts. The program does **not** turn participants into Lean experts, instead it gives a solid
+foundation to approach existing code and start writing original projects.
 
 This training program is focused on the software-development aspects of Lean. The ITP pure-logics
 facets of Lean are extremely deep and complex, and the program only covers them as they naturally
@@ -68,6 +70,8 @@ appear in a *"normal"* software development setting.
 
 ## Details
 
+> The whole training material is open source, check it out at <github.com/anzenlang/train.bf>.
+
 The training program is structured around a project so that the various topics are discussed in a
 tangible context, as opposed to relying on small standalone code snippets.
 
@@ -75,10 +79,10 @@ Participants write (most of) the project themselves as the concepts are introduc
 is, concepts are used by participants during or immediately after their introduction.
 
 It is difficult to gauge how fast/slow a group of participants can digest the program. We account
-for this impredictability by ending the program with a *"code what you want"* session --- though we
-do provide project suggestions with solution. This session is fully supervised and is a good
-opportunity for participants to dive deeper into aspects of Lean they want to explore while still
-having access to the trainer for guidance.
+for this lack of predictability by ending the program with a *"code what you want"* session ---
+though we do provide project suggestions with solution. This session is fully supervised and is a
+good opportunity for participants to dive deeper into aspects of Lean they want to explore while
+still having access to the trainer for guidance.
 
 Importantly, the final free session gives some flexibility as it can last from half a day to a full
 day depending on how fast participants assimilate the rest of the program.
@@ -93,12 +97,18 @@ day depending on how fast participants assimilate the rest of the program.
 
 ### Second day
 
-- proof basics: `Prop`;
-- type-`class`es;
+- type`class`es;
+- type universes;
 - monads for developers;
-- pushing the running project further.
+- pushing the BF project further.
 
 ### Third day
+
+- proof basics: `Prop`;
+- more practice on the project: monads, typeclasses, type universes...
+- syntax extensions with custom elaboration;
+
+### Fourth day
 
 - anything remaining from the previous days;
 - open discussion;

@@ -5,7 +5,7 @@ github_repos:
   - anzenlang/cvc.lean
   - anzenlang/lean-cvc5
   - anzenlang/lean-smt
-  - anzenlang/timelib
+  - anzenlang/train.bf
   - AdrienChampion/rsmt2
   - AdrienChampion/lsmt2
   - AdrienChampion/hashconsing

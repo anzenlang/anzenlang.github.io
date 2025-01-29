@@ -38,7 +38,7 @@ We mostly work with academics on language-related topics:
 
 - theorem proving in Lean 4, for software safety and fundamental results;
 
-- Lean 4, Rust, and formal verification training.
+- Lean 4, ~~Rust~~, and formal verification training.
 
 <br>
 
