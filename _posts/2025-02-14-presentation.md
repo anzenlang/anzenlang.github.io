@@ -13,10 +13,10 @@ The talk will be about 40 minutes and demo-heavy. We want to show [`cvc.lean`]'s
 the work we did on safety and ergonomics.
 
 A heavily documented, text version of the presentation can be found in the [`demo_2025_02`
-branch][branch] of the [`cvc.lean` repository][`cvc.lean`].
+branch][demo branch] of the [`cvc.lean` repository][`cvc.lean`].
 
 [Slides (PDF).][slides]
 
 [`cvc.lean`]: https://github.com/anzenlang/cvc.lean
+[demo branch]: https://github.com/anzenlang/cvc.lean/tree/demo_2025_02
 [slides]: /assets/pdf/2025_02_smt.pdf
-[branch]: https://github.com/anzenlang/cvc.lean/tree/demo_2025_02
