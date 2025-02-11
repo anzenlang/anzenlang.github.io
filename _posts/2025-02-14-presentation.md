@@ -18,7 +18,5 @@ branch][branch] of the [`cvc.lean` repository][`cvc.lean`].
 [Slides (PDF).][slides]
 
 [`cvc.lean`]: https://github.com/anzenlang/cvc.lean
-[`lean-cvc5`]: https://github.com/abdoo8080/lean-cvc5
-[`lean-auto`]: https://github.com/leanprover-community/lean-auto
-[slides]: /assets/pdf/2024_cvc5Summit.pdf
+[slides]: /assets/pdf/2025_02_smt.pdf
 [branch]: https://github.com/anzenlang/cvc.lean/tree/demo_2025_02
