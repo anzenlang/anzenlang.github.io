@@ -42,7 +42,7 @@ We mostly work with academics on language-related topics:
 
 <br>
 
-[Mentions légales.][legal]
+[Legal notices (in French) / mentions légales.][legal]
 
 [lean]: https://lean-lang.org
 [rust]: https://www.rust-lang.org
