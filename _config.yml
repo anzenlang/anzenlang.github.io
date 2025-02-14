@@ -16,7 +16,7 @@ keywords: >
   programming-languages, software-safety, formal-verification, smt,
   lean-4, rust, strong-typing, formal-proofs
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: square_logo_anzen_cob.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: stamp_round_white.png  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://anzenlang.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root

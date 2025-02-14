@@ -21,7 +21,7 @@ social: true # includes social icons at the bottom of the page
 <div class="row">
     <div class="col-sm-3 mt-0 mt-md-0"></div>
     <div class="col-sm-5 mt-0 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/hori_logo_anzen_cob_big.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/stamp_rect_1.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-0 mt-md-0"></div>
 </div>
