@@ -38,21 +38,21 @@ Anzenlang est une Société à Responsabilité Limitée au capital de `25000€`
 
 ## Credits
 
-Anzenlang *"legacy pixel art"* logo by Adrien Champion:
+Anzenlang *"legacy pixel logo"* by Adrien Champion:
 <div class="row">
     <div class="col-sm-1 mt-0 mt-md-0"></div>
     <div class="col-sm-2 mt-0 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/hori_logo_anzen_cob_big.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/hori_logo_anzen_cob_big.png" title="anzenlang pixel logo" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
-Anzenlang *"stamp"* logos by *Ichimi Design*:
+Anzenlang *"stamp logos"* by *Ichimi Design*:
 <div class="row">
     <div class="col-sm-1 mt-0 mt-md-0"></div>
     <div class="col-sm-2 mt-0 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/stamp_rect_1.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/stamp_rect_1.png" title="anzenlang stamp square logo" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-2 mt-0 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/stamp_round_1.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/stamp_round_1.png" title="anzenlang stamp round logo" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
