@@ -15,7 +15,7 @@ nav_order: 2
 [Lean 4][lean] is a relatively new language that has been growing rapidly during the last two years.
 Originally developed as a confidential project by Leonardo de Moura at Microsoft Research, Leonardo
 is now part of Amazon Web Services (AWS) and Lean 4 now has a fairly large community and its own
-foundation: the [Lean FRO][fro] (For Research Organization).
+organization: the [Lean FRO][fro] (Focused Research Organization).
 
 Lean 4 rides the current trend towards *safer* languages, *i.e.* languages able to provide strong
 guarantees **at compile-time**. The most recent and successful example of this trend is the [Rust
