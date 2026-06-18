@@ -12,7 +12,7 @@ nav_order: 2
 
 # Lean 4?
 
-[Lean 4][lean] is a relatively new language that has been growing rapidly during the last two years.
+[Lean 4][lean] is a *relatively* new language that has been growing rapidly during the last two years.
 Originally developed as a confidential project by Leonardo de Moura at Microsoft Research, Leonardo
 is now part of Amazon Web Services (AWS) and Lean 4 now has a fairly large community and its own
 organization: the [Lean FRO][fro] (Focused Research Organization).
