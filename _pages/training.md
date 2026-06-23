@@ -56,7 +56,7 @@ programs can optimize them much, much more aggressively without sacrificing safe
 
 
 
-# Training Program
+# Structured Training Program
 
 We propose a four-day training program that presents Lean from basics to relatively advanced
 concepts. The program does **not** turn participants into Lean experts, instead it gives a solid
@@ -113,6 +113,27 @@ day depending on how fast participants assimilate the rest of the program.
 - anything remaining from the previous days;
 - open discussion;
 - *"code what you want"* with supervision and some recommended projects (with solutions).
+
+
+
+# Interactive "Live" Training
+
+Anzenlang also proposes *interactive/live* training where participants are expected to have a basic
+understanding of Lean 4. This variant does not a have a fixed program: some material is prepared by
+discussing the Lean 4 skill level of the participants as well as the aspects of Lean 4 they are
+particularly interested in.
+
+The training typically lasts three days and while the content is guided by the custom material
+prepared beforehand, notions are explored if and when needed as decided by the trainer and the
+participants. This allows spending as much or as little time on a given topic to best fit the
+participants skill level and interests.
+
+Pricing is highly dependent on degree of expertise involved in preparing the training material and
+making sure it allows exploring the topics asked by the participants, and exploring them at the
+depth the participants expect.
+
+Please reach out directly to discuss the number of days and topics you are interested so that we can
+produce a quote.
 
 
 
